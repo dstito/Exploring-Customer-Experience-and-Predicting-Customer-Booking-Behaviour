@@ -22,10 +22,10 @@ You can look at the power point given by this [link](https://docs.google.com/pre
 ## Predicting Customer Booking Behaviour with British Airways
 ### Content
 You can follow the notebook that I have made in order to completely explore how I manage to finish the project.
-- [Task 2 - Predicting Customers Booking Behaviour.ipynb](https://github.com/dstito/Exploring-Customer-Experience-and-Predicting-Customer-Booking-Behaviour/blob/main/Task%202%20-%20Predicting%20Customers%20Booking%20Behaviour.ipynb)
+- [Task 2 - Predicting Customer Booking Behaviour.ipynb](https://github.com/dstito/Exploring-Customer-Experience-and-Predicting-Customer-Booking-Behaviour/blob/main/Task%202%20-%20Predicting%20Customer%20Booking%20Behaviour.ipynb)
   - **Data Profiling**, to get more understanding about the data.
   - **Exploratory Data Analysis**, to uncover meaningful insights within the data.
   - **Modeling** with LightGBM, to predict whether the customers will complete their bookings or not.
   - **Recommendation**, to provide some strategic recommendations for British Airways.
 ### Final Result
-You can look at the power point given by this [link](https://docs.google.com/presentation/d/1pXEfyHdQfBVH0e-u-vuDZBDHJGHo-gCAMOchu9k7yo8/edit?usp=sharing) for the final end-to-end result, or download it via this [link](https://github.com/dstito/Exploring-Customer-Experience-and-Predicting-Customer-Booking-Behaviour/blob/main/PPT%202%20-%20Predicting%20Customers%20Booking%20Behaviour%20with%20British%20Airways.pptx)
+You can look at the power point given by this [link](https://docs.google.com/presentation/d/1pXEfyHdQfBVH0e-u-vuDZBDHJGHo-gCAMOchu9k7yo8/edit?usp=sharing) for the final end-to-end result, or download it via this [link](https://github.com/dstito/Exploring-Customer-Experience-and-Predicting-Customer-Booking-Behaviour/blob/main/PPT%202%20-%20Predicting%20Customer%20Booking%20Behaviour%20with%20British%20Airways.pptx)
