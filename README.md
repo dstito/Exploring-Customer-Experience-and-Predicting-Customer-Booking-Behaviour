@@ -1,5 +1,5 @@
 # Overview
-This reposity contains two main tasks (end-to-end Projects) given from British Airways Data Science Job Simulation on Forage, which are 
+This reposity contains two main tasks (end-to-end Projects) given by British Airways Data Science Job Simulation on Forage, which are 
 1. **Exploring Customer Experience with British Airways**.
 2. **Predicting Customer Booking Behaviour with British Airways**.
 
