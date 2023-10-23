@@ -3,7 +3,7 @@ This reposity contains two main tasks (end-to-end Projects) given by British Air
 1. **Exploring Customer Experience with British Airways**.
 2. **Predicting Customer Booking Behaviour with British Airways**.
 
-<img src="image/BA airplane 1.jpeg" width="300">
+<img src="image/BA airplane 1.jpeg" width="500">
 
 ## Exploring Customer Experience with British Airways
 ### Content
